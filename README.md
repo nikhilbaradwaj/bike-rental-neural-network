@@ -20,3 +20,5 @@ The neural network has 2 layers
 
   - Training loss: 0.061 
   - Validation loss: 0.130
+  
+  ![alt tag](bike-rental-prediction.png)
